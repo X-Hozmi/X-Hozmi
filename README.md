@@ -3,8 +3,8 @@
   "name": "Abdillah Haidar Mahendro",
   "age": 23,
   "hobbies": [
-    "Reading science fiction novels",
-    "Playing indie games"
+    "Emptying my mind",
+    "Relaxing at midnight"
   ],
   "skills": [
     "Cloud Computing",
