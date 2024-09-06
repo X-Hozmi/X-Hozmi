@@ -21,7 +21,8 @@
     "Flutter",
     "JavaScript",
     "MySQL",
-    "PHP"
+    "PHP",
+    "Python"
   ],
   "frameworks": [
     "Codeigniter 3",
