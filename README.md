@@ -4,7 +4,9 @@
   "age": 23,
   "hobbies": [
     "Emptying my mind",
-    "Relaxing at midnight"
+    "Relaxing at midnight",
+    "Playing RPG Games. My role is either Archer or Mage. Sometimes i use monk or any support roles",
+    "Playing FPS Games (especially Battlefield franchises). My role is either Assaulter or Field Medic"
   ],
   "skills": [
     "Cloud Computing",
@@ -32,8 +34,9 @@
   "experience": [
     {
       "company": "PT ENERGI PELABUHAN INDONESIA",
+      "company_description": "Utility Company",
       "position": "Software Engineer",
-      "description": "Cloud Hosting"
+      "position_description": "Develop and maintain apps"
     }
   ],
   "contact": {
