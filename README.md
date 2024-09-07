@@ -10,7 +10,6 @@
     ],
     "skills": [
       "Cloud Computing",
-      "Database",
       "Data Engineer",
       "DevOps Engineer",
       "Git",
