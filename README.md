@@ -46,7 +46,8 @@
     "certificates": [
         "https://www.dicoding.com/certificates/JMZV3J32QPN9",
         "https://www.dicoding.com/certificates/JMZV38933PN9",
-        "https://www.dicoding.com/certificates/07Z60MWNYZQR"
+        "https://www.dicoding.com/certificates/07Z60MWNYZQR",
+        "https://www.dicoding.com/certificates/0LZ067ODRZ65"
     ]
 }
 ```
