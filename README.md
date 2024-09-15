@@ -5,8 +5,7 @@
     "hobbies": [
       "Emptying my mind",
       "Relaxing at midnight",
-      "Playing RPG Games. My role is either Archer or Mage. Sometimes i use monk or any support roles",
-      "Playing FPS Games (especially Battlefield franchises). My role is either Assaulter or Field Medic"
+      "Playing RPG and FPS Games"
     ],
     "skills": [
       "Cloud Computing",
