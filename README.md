@@ -26,7 +26,6 @@ I'm currently active in contributing as Software Engineer at <a href="https://ec
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code>
   </div>
   <br>
-  <br>
   
 ### GitHub Statistic
 <p align="left">
