@@ -27,7 +27,6 @@ I'm currently active in contributing as Software Engineer at <a href="https://ec
 <a href="https://kubernetes.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="50" height="50"/> </a>
 <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="50" height="50"/> </a>
 <a href="https://cloud.google.com/?hl=en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50" height="50"/> </a>
-<a href="https://github.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/> </a>
 <a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50" height="50"/> </a>
   
@@ -37,4 +36,8 @@ I'm currently active in contributing as Software Engineer at <a href="https://ec
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=X-Hozmi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=X-Hozmi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
