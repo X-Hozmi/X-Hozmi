@@ -29,7 +29,8 @@ I'm currently active in contributing as Software Engineer at <a href="https://ec
 <a href="https://cloud.google.com/?hl=en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50" height="50"/> </a>
 <a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50" height="50"/> </a>
-  
+<a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/> </a>
+
 ### GitHub Statistic
 <p align="left">
 <a href="https://github.com/X-Hozmi">
