@@ -1,12 +1,13 @@
-An independent Software Engineer who loves to create and share projects about web and mobile technology! Enjoyed Flutter and make it the main language in creating a project.
+An Independent Software Engineer, Devoted to the Craft of Web and Mobile Technology.
 
-I'm currently active in contributing as Software Engineer at <a href="https://ecopowerport.co.id">PT Energi Pelabuhan Indonesia</a> to build Awesome and Robust Company Apps.
+With an ardent passion for creation and innovation, I find great delight in developing and sharing projects that enrich the realm of web and mobile technology. My expertise lies chiefly in Flutter, which I have embraced as the principal language of my endeavors.
 
-- 🔭 Currently working on <a href="https://ecopowerport.co.id">PT Energi Pelabuhan Indonesia</a>
-- 🌱 Currently learning about cloud technology for back-end apps, docker, and container orchestration with kubernetes
-- 💬 Feel free to ask me about mobile development of Flutter
-- 📫 How to reach me: abdil.haidar17@gmail.com
-- ⚡ Fun fact: FPS & RPG Gamer
+At present, I am honored to contribute as a Software Engineer at <a href="https://ecopowerport.co.id">PT Energi Pelabuhan Indonesia</a>, where I diligently labor to forge applications of remarkable robustness and excellence, advancing the company's technological aspirations.
+
+- 🌱 Ever in pursuit of knowledge, I am presently engaged in the study of cloud technology for back-end applications, alongside the intricacies of Docker and Kubernetes, with the noble aim of mastering container orchestration.
+- 💬 Should you seek guidance in the fine art of Flutter mobile development, I would be most delighted to assist.
+- 📫 You may correspond with me at: abdil.haidar17@gmail.com
+- 🎮 A curious diversion of mine is the enthralling world of FPS and RPG games, wherein strategy and adventure ever captivate the mind.
 
 ### Tech Stack
 <p align="left">
