@@ -1,5 +1,3 @@
-### Hi! 👋 I'm Haidar.
-
 An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed Flutter and make it the main language in creating a project.
 
 I'm currently active in contributing as Software Engineer at <a href="https://ecopowerport.co.id">PT Energi Pelabuhan Indonesia</a> to build Awesome and Robust Company Apps.
