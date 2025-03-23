@@ -1,9 +1,9 @@
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed Flutter and make it the main language in creating a project.
+An independent Software Engineer who loves to create and share projects about web and mobile technology! Enjoyed Flutter and make it the main language in creating a project.
 
 I'm currently active in contributing as Software Engineer at <a href="https://ecopowerport.co.id">PT Energi Pelabuhan Indonesia</a> to build Awesome and Robust Company Apps.
 
-- 🔭 I’m currently working on <a href="https://ecopowerport.co.id">PT Energi Pelabuhan Indonesia</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps, docker, and container orchestration with kubernetes
+- 🔭 Currently working on <a href="https://ecopowerport.co.id">PT Energi Pelabuhan Indonesia</a>
+- 🌱 Currently learning about cloud technology for back-end apps, docker, and container orchestration with kubernetes
 - 💬 Feel free to ask me about mobile development of Flutter
 - 📫 How to reach me: abdil.haidar17@gmail.com
 - ⚡ Fun fact: FPS & RPG Gamer
